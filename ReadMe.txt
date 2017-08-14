@@ -1,3 +1,25 @@
+
+
+This program was written as a solution to Hashcode 2016 practice question. This code is fairly optimized and scored well with some test input. Feel free to fork.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ========================================================================
     CONSOLE APPLICATION : HashCodePractice_2016 Project Overview
 ========================================================================
