@@ -1,6 +1,6 @@
 
 
-This program was written as a solution to Hashcode 2016 practice question. This code is fairly optimized and scored well with some test input. Feel free to fork.
+This program was written in C++ as a solution to Hashcode 2016 practice question. This code is fairly optimized and scored well with some test input. Feel free to fork.
 
 
 
